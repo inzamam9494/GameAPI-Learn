@@ -1,0 +1,6 @@
+ <resources>
+        <string name="app_name">MemeAPI app</string>
+        <string name="loading_failed">Could not load Memes</string>
+        <string name="retry">Try again!</string>
+        <string name="loading">Loading data</string>
+    </resources>
